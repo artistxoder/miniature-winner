@@ -10,4 +10,4 @@ Koltin
 
 ### License
 
-Apache-2.0 license
+The Unlicense
