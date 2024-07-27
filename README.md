@@ -1,9 +1,9 @@
 # miniature-winner
 My personal Android app code. 
 
-###Technologies
+### Technologies
 Andorid Studio 
 Koltin 
 
-###License
+### License
 Apache-2.0 license
